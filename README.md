@@ -15,39 +15,6 @@ This repository hosts the **genesis configuration files** used to initialize and
 
 ---
 
-## ⚙️ How to Use
-
-To start an **IDNetwork** node with Hyperledger Besu (IBFT):
-
-```bash
-besu \
-  --data-path=/opt/besu/data \
-  --genesis-file=/opt/besu/genesis/mainnet.json \
-  --rpc-http-enabled \
-  --rpc-http-api=ETH,NET,WEB3,ADMIN,TXPOOL,IBFT \
-  --host-whitelist="*" \
-  --rpc-http-cors-origins="*"
-
----
-
-## 🌐 Genesis Files
-
-| Network | File | Raw Link |
-|---------|------|-----------|
-| **Mainnet** | [`mainnet.json`](mainnet.json) | [📄 View Raw](https://raw.githubusercontent.com/idnetworkchain/genesis/main/mainnet.json) |
-| **Testnet** | *(coming soon)* | — |
-
----
-
-## 🌐 Genesis Files
-
-| Network | File | Raw Link |
-|---------|------|-----------|
-| **Mainnet** | [`mainnet.json`](mainnet.json) | [📄 View Raw](https://raw.githubusercontent.com/idnetworkchain/genesis/main/mainnet.json) |
-| **Testnet** | *(coming soon)* | — |
-
----
-
 ## 🏗️ About IDNetwork
 
 **IDNetwork** is a blockchain network built for real-world utility, optimized for:
@@ -60,6 +27,21 @@ besu \
 **Total Supply:** 1,000,000,000 IDN  
 **Consensus:** PoA IBFT (Hyperledger Besu)  
 **Block Time:** ~5 seconds
+
+---
+
+## ⚙️ How to Use
+
+To start an **IDNetwork** node with Hyperledger Besu (IBFT):
+
+```bash
+besu \
+  --data-path=/opt/besu/data \
+  --genesis-file=/opt/besu/genesis/mainnet.json \
+  --rpc-http-enabled \
+  --rpc-http-api=ETH,NET,WEB3,ADMIN,TXPOOL,IBFT \
+  --host-whitelist="*" \
+  --rpc-http-cors-origins="*"
 
 ---
 
