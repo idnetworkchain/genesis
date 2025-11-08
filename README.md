@@ -62,3 +62,27 @@ besu \
 
 To join the network as a validator, add your enode and address in the mainnet.json under the validators section. Each validator must follow IBFT rules for block signing.
 
+---
+
+## ⏱️ Epoch & Block Configuration
+
+- Block Time: ~5 seconds
+- Epoch Length: Configurable in genesis, determines when validator votes are applied
+- Chain ID: 8824
+
+---
+
+## 📞 Contact & Resources
+
+- 🌍 Website: [https://idnetwork.asia](https://idnetwork.asia)
+- 💬 Telegram: [https://t.me/idnetworkchain](https://t.me/idnetworks)
+- 🐙 GitHub: [https://github.com/idnetworkchain](https://github.com/idnetworkchain)
+
+---
+
+## 💼 Wallet
+
+- **Mobile App (Android)**: [Download Here](https://apps.idnetwork.asia/invite/UGKWSC)
+- **Supported Wallets**: MetaMask, WalletConnect, TrustWallet
+
+
