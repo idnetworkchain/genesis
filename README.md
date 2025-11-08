@@ -28,6 +28,8 @@ besu \
   --host-whitelist="*" \
   --rpc-http-cors-origins="*"
 
+---
+
 ## 🏗️ About IDNetwork
 
 **IDNetwork** is a blockchain network built for real-world utility, optimized for:
@@ -40,6 +42,8 @@ besu \
 **Total Supply:** 1,000,000,000 IDN  
 **Consensus:** PoA IBFT (Hyperledger Besu)  
 **Block Time:** ~5 seconds
+
+---
 
 ## 🧩 Tokenomics Overview
 
