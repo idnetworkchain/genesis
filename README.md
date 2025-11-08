@@ -30,6 +30,17 @@ This repository hosts the **genesis configuration files** used to initialize and
 
 ---
 
+## 🧩 Tokenomics Overview
+
+| Allocation           | Percentage | Description                                |
+|----------------------|-----------|--------------------------------------------|
+| Mining / Reward Pool | 60%       | Distributed to users via mining and staking |
+| Team & Founder       | 10%       | With vesting (2–3 years)                  |
+| Early Investors      | 10%       | 10% unlocked every 6 months               |
+| Airdrop & Community  | 10%       | For marketing & community growth          |
+| Treasury / Reserve   | 10%       | Ecosystem & development fund              |
+
+
 ## ⚙️ How to Use
 
 To start an **IDNetwork** node with Hyperledger Besu (IBFT):
@@ -42,17 +53,4 @@ besu \
   --rpc-http-api=ETH,NET,WEB3,ADMIN,TXPOOL,IBFT \
   --host-whitelist="*" \
   --rpc-http-cors-origins="*"
-
----
-
-## 🧩 Tokenomics Overview
-
-| Allocation           | Percentage | Description                                |
-|----------------------|-----------|--------------------------------------------|
-| Mining / Reward Pool | 60%       | Distributed to users via mining and staking |
-| Team & Founder       | 10%       | With vesting (2–3 years)                  |
-| Early Investors      | 10%       | 10% unlocked every 6 months               |
-| Airdrop & Community  | 10%       | For marketing & community growth          |
-| Treasury / Reserve   | 10%       | Ecosystem & development fund              |
-
 
