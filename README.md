@@ -28,3 +28,27 @@ besu \
   --host-whitelist="*" \
   --rpc-http-cors-origins="*"
 
+## 🏗️ About IDNetwork
+
+**IDNetwork** is a blockchain network built for real-world utility, optimized for:
+
+- ⚡ Ultra-fast transaction finality (~5 seconds per block)
+- 💰 Near-zero gas fees
+- 🔗 EVM compatible
+- 👥 Community-driven mining and reward systems
+
+**Total Supply:** 1,000,000,000 IDN  
+**Consensus:** PoA IBFT (Hyperledger Besu)  
+**Block Time:** ~5 seconds
+
+## 🧩 Tokenomics Overview
+
+| Allocation           | Percentage | Description                                |
+|----------------------|-----------|--------------------------------------------|
+| Mining / Reward Pool | 60%       | Distributed to users via mining and staking |
+| Team & Founder       | 10%       | With vesting (2–3 years)                  |
+| Early Investors      | 10%       | 10% unlocked every 6 months               |
+| Airdrop & Community  | 10%       | For marketing & community growth          |
+| Treasury / Reserve   | 10%       | Ecosystem & development fund              |
+
+
