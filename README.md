@@ -40,6 +40,7 @@ This repository hosts the **genesis configuration files** used to initialize and
 | Airdrop & Community  | 10%       | For marketing & community growth          |
 | Treasury / Reserve   | 10%       | Ecosystem & development fund              |
 
+---
 
 ## ⚙️ How to Use
 
@@ -53,4 +54,11 @@ besu \
   --rpc-http-api=ETH,NET,WEB3,ADMIN,TXPOOL,IBFT \
   --host-whitelist="*" \
   --rpc-http-cors-origins="*"
+```
+
+---
+
+## 🔹 Validators
+
+To join the network as a validator, add your enode and address in the mainnet.json under the validators section. Each validator must follow IBFT rules for block signing.
 
