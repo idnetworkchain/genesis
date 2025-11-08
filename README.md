@@ -30,6 +30,24 @@ besu \
 
 ---
 
+## 🌐 Genesis Files
+
+| Network | File | Raw Link |
+|---------|------|-----------|
+| **Mainnet** | [`mainnet.json`](mainnet.json) | [📄 View Raw](https://raw.githubusercontent.com/idnetworkchain/genesis/main/mainnet.json) |
+| **Testnet** | *(coming soon)* | — |
+
+---
+
+## 🌐 Genesis Files
+
+| Network | File | Raw Link |
+|---------|------|-----------|
+| **Mainnet** | [`mainnet.json`](mainnet.json) | [📄 View Raw](https://raw.githubusercontent.com/idnetworkchain/genesis/main/mainnet.json) |
+| **Testnet** | *(coming soon)* | — |
+
+---
+
 ## 🏗️ About IDNetwork
 
 **IDNetwork** is a blockchain network built for real-world utility, optimized for:
